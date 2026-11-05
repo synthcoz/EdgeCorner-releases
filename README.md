@@ -1,5 +1,5 @@
-# Edge & Corner — bản phát hành
+# Edge & Corner — Releases
 
-Repo này chỉ chứa các bản phát hành của Edge & Corner (macOS). Tải bản mới nhất ở mục [Releases](https://github.com/synthcoz/EdgeCorner-releases/releases/latest).
+This repository only hosts release builds of Edge & Corner for macOS. Download the latest version from [Releases](https://github.com/synthcoz/EdgeCorner-releases/releases/latest).
 
-App tự kiểm tra cập nhật qua `appcast.xml` của release mới nhất.
+The app checks for updates automatically using the `appcast.xml` attached to the latest release.
